@@ -1,8 +1,8 @@
 # DSocial
-
+Created - 27th August, 2020. Publicly Available - 31st January, 2024.
 ## Overview
 
-This Django project, named "DSocial," includes a single app called "network." It is designed to implement a social network allowing users to make posts, follow other users, and like posts. The application uses Python for the backend, JavaScript for dynamic interactions, and HTML/CSS for the frontend.
+This Django project, named "DSocial," includes a single app called "network." It is designed to implement a social network that allows users to make posts, follow other users, and like posts. The application uses Python for the backend, JavaScript for dynamic interactions, and HTML/CSS for the frontend.
 
 ## Features
 
